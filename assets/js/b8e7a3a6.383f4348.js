@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkic_docs_ru=self.webpackChunkic_docs_ru||[]).push([[54],{6622:function(e){e.exports=JSON.parse('{"permalink":"/ic-docs-ru/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

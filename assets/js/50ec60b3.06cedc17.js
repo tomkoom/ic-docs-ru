@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkic_docs_ru=self.webpackChunkic_docs_ru||[]).push([[306],{741:function(c){c.exports=JSON.parse('{"allTagsPath":"/ic-docs-ru/blog/tags","slug":"/ic-docs-ru/blog/tags/facebook","name":"facebook","count":1,"permalink":"/ic-docs-ru/blog/tags/facebook"}')}}]);

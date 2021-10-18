@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkic_docs_ru=self.webpackChunkic_docs_ru||[]).push([[149],{8677:function(s){s.exports=JSON.parse('{"allTagsPath":"/ic-docs-ru/blog/tags","slug":"/ic-docs-ru/blog/tags/hola","name":"hola","count":1,"permalink":"/ic-docs-ru/blog/tags/hola"}')}}]);
