@@ -1,4 +1,4 @@
-### https://icdocsru.netlify.app/
+### https://ic-docs-ru.netlify.app
 
 # Website
 
