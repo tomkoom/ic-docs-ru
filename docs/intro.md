@@ -2,34 +2,12 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Home
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Docs: https://tomkoom.github.io/internetcomputer-docs-ru/
 
-## Getting Started
+Полезные ссылки:
 
-Get started by **creating a new site**.
-
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**:
-
-```shell
-npm init docusaurus@latest my-website classic
-```
-
-## Start your site
-
-Run the development server:
-
-```shell
-cd my-website
-
-npx docusaurus start
-```
-
-Your site starts at `http://localhost:3000`.
-
-Open `docs/intro.md` and edit some lines: the site **reloads automatically** and display your changes.
+-   [Репозиторий с примерами](https://github.com/dfinity/examples) Исследуйте самостоятельно в репозитории примеров.
+-   [Быстрый старт](https://sdk.dfinity.org/docs/quickstart/quickstart-intro.html) Разверните свое первое приложение в сети Internet Computer.
+-   [Репозиторий Docs на английском](https://github.com/dfinity/docs) Исходный репозиторий на английском языке.
