@@ -9,7 +9,7 @@ const config = {
   title: 'Документация Internet Computer',
   tagline: 'Перед вами неофициальный документации Internet Computer https://smartcontracts.org/',
   url: 'https://tomkoom.github.io',
-  baseUrl: '/ic-docs-ru/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',

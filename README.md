@@ -1,4 +1,4 @@
-### https://tomkoom.github.io/ic-docs-ru/
+### https://icdocsru.netlify.app/
 
 # Website
 
